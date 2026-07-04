@@ -1,0 +1,11 @@
+torch
+tensorflow
+keras
+einops
+transformers
+accelerate
+tensorflow_model_optimization
+numpy
+vllm
+nvidia-ml-py
+mlflow
